@@ -80,6 +80,7 @@ onMounted(() => {
 
                         </div>
                     </div>
+                    <!-- Modal end -->
                     <table class="table table-bordered">
                         <thead>
                             <tr>
